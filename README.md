@@ -22,8 +22,10 @@ Manual suspend button for emergency reasons
 /FAQ/
 
 -THIS SCRIPT IS SHIT INEFFICENT BULLCRAP U SUK WAHWAHWHA
+
 *ok dude
 
 -I COULDNT LOGIN TILL 10 AM ALL CLASSES ARE FULL NOW FUCK YOUR SCRIPT
+
 *ok dude
 
