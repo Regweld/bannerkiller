@@ -6,6 +6,11 @@ for fast (not guaranteed) access to sabanci university bannerweb, only works on 
 *Make sure the save the bannerkiller.ahk properly as a .ahk file
 *Right click on the .ahk and run
 
+
+
+
+
+
 /Keys/
 
 *Numpad6
@@ -19,6 +24,13 @@ Pastes the clipboard and hits enter, if the script detects the User Login tab, s
 *Numpad7
 
 Manual suspend button for emergency reasons
+
+
+
+
+
+
+
 
 
 
