@@ -9,12 +9,15 @@ for fast (not guaranteed) access to sabanci university bannerweb, only works on 
 /Keys/
 
 *Numpad6
+
 Runs firefox and changes your clipboard to the bannerweb login page link
 
 *Numpad5 
+
 Pastes the clipboard and hits enter, if the script detects the User Login tab, suspends automatically. If not, opens a new tab and tries again.
 
 *Numpad7
+
 Manual suspend button for emergency reasons
 
 
